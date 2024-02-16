@@ -983,6 +983,19 @@
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.3.tgz#555193ab2e3bb3b6adc3d551c9c030d9e860daf6"
   integrity sha512-k2Ty1JcVojjJFwrg/ThKi2ujJ7XNLYaFGNB/bWT9wGR+oSMJHMa5w+CUq6p/pVrKeNNgA7pCqEcjSnHVoqJQFw==
 
+"@hotwired/turbo-rails@^8.0.2":
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/@hotwired/turbo-rails/-/turbo-rails-8.0.2.tgz#c43d54d9346bcf14c897166556bfed92ed4c1d17"
+  integrity sha512-j+6THPc+CsaUdUXZTg6wQ+YcStO9kn6CuGzElqFxUmV/vyd1Jfm0RLZMIbaY8w9Qse7u6JBcrm4AcRxhIhYmaQ==
+  dependencies:
+    "@hotwired/turbo" "^8.0.2"
+    "@rails/actioncable" "^7.0"
+
+"@hotwired/turbo@^8.0.2":
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/@hotwired/turbo/-/turbo-8.0.2.tgz#c31cdadfe66b98983066a94073b26fc7e15835f0"
+  integrity sha512-3K6QZkwWfosAV8zuM5bY+kKF02jp1lMQGsWfSE6wXdZBRBP3ah+Vj26YNqYtkEomBwRWA0QKhZgyJP7xOQkVEg==
+
 "@jridgewell/gen-mapping@^0.3.0", "@jridgewell/gen-mapping@^0.3.2":
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.3.3.tgz#7e02e6eb5df901aaedb08514203b096614024098"
@@ -1043,6 +1056,11 @@
   version "6.1.7"
   resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-6.1.7.tgz#8b4506925d3f7146a70941e4db7ce9dda99f99ae"
   integrity sha512-F6S74NGpxhbbDRFsQFGYqefRfZPgYvePNtz9hHKYOqLturrsqrDoG+UcrxEGHsvqDUorMYfx4Wl3K8smmk/u2g==
+
+"@rails/actioncable@^7.0":
+  version "7.1.3"
+  resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-7.1.3.tgz#4db480347775aeecd4dde2405659eef74a458881"
+  integrity sha512-ojNvnoZtPN0pYvVFtlO7dyEN9Oml1B6IDM+whGKVak69MMYW99lC2NOWXWeE3bmwEydbP/nn6ERcpfjHVjYQjA==
 
 "@rails/activestorage@^6.0.0":
   version "6.1.7"
